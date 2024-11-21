@@ -1,0 +1,21 @@
+Menu:
+Pizza(Maximo 4 sabores por pizza):
+    Queso
+    Jamon
+    Peperoni
+    Margarita
+    Hawaiana
+    Napolitana
+
+Bebidas:
+    Coca-Cola
+    Pepsi
+    Sprite
+    Fanta
+    Naranja
+    Mango
+    Piña
+    Fresa
+
+Que desea ordenar el dia de hoy?
+p = pizza; b = Bebidas
